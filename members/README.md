@@ -11,4 +11,4 @@
 
 ---
 
-<small>[Home](/) | [Projects](/projects) | [Members](/members)</small>
+[Home](/) | [Projects](/projects) | [Members](/members)
