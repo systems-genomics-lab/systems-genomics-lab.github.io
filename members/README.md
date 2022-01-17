@@ -1,7 +1,7 @@
-# Group Members
+## Group Members
 
-## Current
+### Current
 - Ahmed Moustafa, Group Leader
 - [Ahmed El Hosseiny](ahmedelhosseiny.md), M.Sc. Student
 
-## Former
+### Former
