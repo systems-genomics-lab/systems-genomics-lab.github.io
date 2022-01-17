@@ -1,3 +1,4 @@
+# Systems Genomics Lab
 
 ## Group Members
 - Ahmed Moustafa, Group Leader
