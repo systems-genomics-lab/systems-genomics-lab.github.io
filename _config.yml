@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: Systems Genomics Lab
 google_analytics: G-1LLWRMJVVF
+github:
+  is_project_page: false
