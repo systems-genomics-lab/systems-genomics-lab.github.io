@@ -10,5 +10,4 @@
 - Z
 
 ---
-
 [Home](/) | [Projects](/projects) | [Members](/members)
