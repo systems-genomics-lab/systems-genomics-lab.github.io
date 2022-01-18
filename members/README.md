@@ -1,5 +1,3 @@
-{% include gtag.js %}
-
 # Group Members
 
 ## Current
@@ -13,3 +11,5 @@
 
 ---
 [Home](/) | [Projects](/projects) | [Members](/members)
+
+{% include gtag.js %}
