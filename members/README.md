@@ -3,6 +3,7 @@
 ## Current Members
 - Ahmed Moustafa, Group Leader
 - [Ahmed El Hosseiny](ahmedelhosseiny.md), M.Sc. Student
+- Tasnim Ghanim, M.Sc. Student
 
 ## Former Members
 - X
