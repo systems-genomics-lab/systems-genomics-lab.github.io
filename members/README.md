@@ -6,7 +6,7 @@
 - Tasnim Ghanim, M.Sc. Student
 
 ## Former Members
-- X
+- Hazem Sharaf
 - Y
 - Z
 
