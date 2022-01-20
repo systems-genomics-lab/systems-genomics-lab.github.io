@@ -5,7 +5,7 @@
 - [Ahmed El Hosseiny](ahmedelhosseiny.md), M.Sc. Student
 
 ## Former Members
-- Hazem sharaf
+- Hazem Sharaf
 - Y
 - Z
 
