@@ -7,7 +7,7 @@
 
 ## Former Members
 - Hazem Sharaf
-- Y
+- [Ahmed Adel Aboushanab](ahmedadelaboushanab.md), M.Sc
 - Z
 
 ---
