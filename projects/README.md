@@ -2,7 +2,7 @@
 
 ...
 
----
-[Home](/) | [Projects](/projects) | [Members](/members)
 
+
+{% include footer.js %}
 {% include gtag.js %}
