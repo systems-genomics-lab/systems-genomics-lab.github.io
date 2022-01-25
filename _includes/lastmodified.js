@@ -1,8 +1,6 @@
 <script>
-  setModifiedDate()
-</script>
-
-function setModifiedDate() {
+  
+  function setModifiedDate() {
   if (document.getElementById('last-modified')) {
     fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
       .then((response) => {
@@ -16,3 +14,6 @@ function setModifiedDate() {
       });
   }
 }
+
+setModifiedDate()
+</script>
