@@ -4,7 +4,6 @@ Tasnim Ghanim is a graduate student in the biotechnology program at [the America
 
 [![Facebook](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/tasnimghanim/) [![Github](http://i.imgur.com/0o48UoR.png)](https://github.com/tasnimghanim)
 
----
-[Home](/) | [Projects](/projects) | [Members](/members)
 
+{% include footer.js %}
 {% include gtag.js %}
