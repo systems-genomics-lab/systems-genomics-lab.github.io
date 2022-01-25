@@ -17,4 +17,4 @@
 
 {% include gtag.js %}
 
-{% last_modified {{ post.path }} %}
+{% capture lastModificationDate %}{% last_modified {{ page.path }} %}{% endcapture %}
