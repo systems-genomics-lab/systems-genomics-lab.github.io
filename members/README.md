@@ -8,9 +8,9 @@
 
 
 ## Former Members
-- Hazem Sharaf
+- [Sarah Halawa](SarahHalawa.md), Ph.D.
 - [Ahmed Adel Aboushanab](ahmedadelaboushanab.md), M.Sc
-- Z
+- Hazem Sharaf
 
 ---
 [Home](/) | [Projects](/projects) | [Members](/members)
