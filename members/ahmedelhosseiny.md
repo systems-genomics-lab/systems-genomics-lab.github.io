@@ -8,7 +8,6 @@
 <!-- [![Twitter](https://www.shareicon.net/data/32x32/2017/02/15/879206_media_512x512.png)](https://twitter.com/AhmdAbdelrhman) 
 [![Facebook](https://www.shareicon.net/data/32x32/2017/02/15/879219_media_512x512.png)](https://www.facebook.com/ahmdabdelrhman/)-->
 
----
-[Home](/) | [Projects](/projects) | [Members](/members)
 
+{% include footer.js %}
 {% include gtag.js %}
