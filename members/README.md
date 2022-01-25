@@ -12,8 +12,6 @@
 - [Ahmed Adel Aboushanab](ahmedadelaboushanab.md), M.Sc.
 - Hazem Sharaf
 
----
-[Home](/) | [Projects](/projects) | [Members](/members)
 
-{% include gtag.js %}
 {% include footer.js %}
+{% include gtag.js %}
