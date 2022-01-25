@@ -16,3 +16,5 @@
 [Home](/) | [Projects](/projects) | [Members](/members)
 
 {% include gtag.js %}
+
+{% last_modified {{ post.path }} %}
