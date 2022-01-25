@@ -15,5 +15,5 @@
   }
 }
 
-setModifiedDate()
+document.write("<small>" + setModifiedDate() + "</small>");
 </script>
