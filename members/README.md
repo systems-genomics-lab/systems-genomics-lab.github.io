@@ -9,7 +9,7 @@
 
 ## Former Members
 - [Sarah Halawa](SarahHalawa.md), Ph.D.
-- [Ahmed Adel Aboushanab](ahmedadelaboushanab.md), M.Sc
+- [Ahmed Adel Aboushanab](ahmedadelaboushanab.md), M.Sc.
 - Hazem Sharaf
 
 ---
