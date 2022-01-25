@@ -3,5 +3,3 @@ title: Systems Genomics Lab
 google_analytics: G-Y0TS6200EY
 github:
   is_project_page: false
-plugins:
-  - jekyll-last-modified-at
