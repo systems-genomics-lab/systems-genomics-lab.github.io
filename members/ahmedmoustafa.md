@@ -6,7 +6,6 @@
 
 [![Twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/ahmedmoustafa) [![Facebook](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/DrAhmedMoustafaAUC/) [![Github](http://i.imgur.com/0o48UoR.png)](https://github.com/ahmedmoustafa)
 
----
-[Home](/) | [Projects](/projects) | [Members](/members)
 
+{% include footer.js %}
 {% include gtag.js %}
