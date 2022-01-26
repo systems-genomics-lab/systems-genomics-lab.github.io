@@ -1,15 +1,15 @@
 # Members
 
 ## Current Members
-- [Ahmed Moustafa](AhmedMoustafa.md), Group Leader
+- [Ahmed Moustafa](AhmedMoustafa), Group Leader
 - Aya Galal, Ph.D. Student
-- [Sherine Saber](SherineSaber.md), M.Sc. Student
-- [Tasnim Ghanim](TasnimGhanim.md), M.Sc. Student
-- [Ahmed El Hosseiny](AhmedElhosseiny.md), M.Sc. Student
+- [Sherine Saber](SherineSaber), M.Sc. Student
+- [Tasnim Ghanim](TasnimGhanim), M.Sc. Student
+- [Ahmed El Hosseiny](AhmedElhosseiny), M.Sc. Student
 
 ## Former Members
-- [Sarah Halawa](SarahHalawa.md), Ph.D.
-- [Ahmed Adel Aboushanab](ahmedadelaboushanab.md), M.Sc.
+- [Sarah Halawa](SarahHalawa), Ph.D.
+- [Ahmed Adel Aboushanab](ahmedadelaboushanab), M.Sc.
 - Hazem Sharaf
 
 
