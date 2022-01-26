@@ -6,6 +6,6 @@ The Systems Genomics Lab at [The American University in Cairo](https://www.auceg
 
 <div align="center">
   
-  [**Projects**](projects)&nbsp;&nbsp;|&nbsp;&nbsp;[**Members**](/members)&nbsp;&nbsp;|&nbsp;&nbsp;[**Collaborators**](/collaborators)&nbsp;&nbsp;|&nbsp;&nbsp;[**Publications**](/publications)
+  [**Projects**](projects)&nbsp;&nbsp;|&nbsp;&nbsp;[**Members**](members)&nbsp;&nbsp;|&nbsp;&nbsp;[**Collaborators**](collaborators)&nbsp;&nbsp;|&nbsp;&nbsp;[**Publications**](publications)
 
 </div>
