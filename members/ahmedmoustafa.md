@@ -6,6 +6,8 @@
 
 [<i class="fab fa-github fa-2x"></i>](https://github.com/ahmedmoustafa)
 [<i class="fab fa-twitter fa-2x"></i>](https://www.twitter.com/ahmedmoustafa)
+[<i class="fab fa-researchgate fa-2x"></i>](https://www.researchgate.net/profile/Ahmed_Moustafa)
+[<i class="fab fa-graduation-cap fa-2x"></i>](https://scholar.google.com/citations?user=r0xURCwAAAAJ&sortby=pubdatea)
 
 
 {% include footer.js %}
