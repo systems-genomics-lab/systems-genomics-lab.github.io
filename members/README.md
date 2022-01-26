@@ -4,8 +4,8 @@
 - [Ahmed Moustafa](AhmedMoustafa.md), Group Leader
 - Aya Galal, Ph.D. Student
 - [Sherine Saber](SherineSaber.md), M.Sc. Student
-- [Tasnim Ghanim](tasnimghanim.md), M.Sc. Student
-- [Ahmed El Hosseiny](ahmedelhosseiny.md), M.Sc. Student
+- [Tasnim Ghanim](TasnimGhanim.md), M.Sc. Student
+- [Ahmed El Hosseiny](AhmedelHosseiny.md), M.Sc. Student
 
 
 ## Former Members
