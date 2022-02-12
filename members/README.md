@@ -11,6 +11,7 @@
 - [Sarah Halawa](SarahHalawa), Ph.D.
 - [Ahmed Adel Aboushanab](ahmedadelaboushanab), M.Sc.
 - Hazem Sharaf
+- [Mariam R. Rizkallah](MariamRRizkallah), Ph.D.
 
 
 {% include footer.js %}
