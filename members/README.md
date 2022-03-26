@@ -6,6 +6,7 @@
 - [Sherine Saber](SherineSaber), M.Sc. Student
 - [Tasnim Ghanim](TasnimGhanim), M.Sc. Student
 - [Ahmed El Hosseiny](AhmedElhosseiny), M.Sc. Student
+- [Ahmed M. Kazlak](AhmedKazlak), M.Sc. Student
 
 ## Former Members
 - [Sarah Halawa](SarahHalawa), Ph.D.
