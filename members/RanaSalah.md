@@ -14,7 +14,7 @@ However, Rana is not only involved with medical research, defining herself as a 
 
 Furthermore, she aims to reduce the gap between the research and industry through bio-entrepreneurship, offering affordable and efficient tools as the genotoxicity assessment method she proposed in her graduation thesis.
 
-As a next step, Rana wants to explore the possible role of the microbiota-gut-brain axis in neurodevelopmental diseases such as Autism Spectrum Disorder (ASD) using Systems Biology.
+As a next step, Rana wants to explore the possible role of the microbiota-gut-brain axis in neurodevelopmental diseases such as [Autism Spectrum Disorder](https://www.cdc.gov/ncbddd/autism/facts.html) ([ASD](https://www.cdc.gov/ncbddd/autism/facts.html)) using Systems Biology.
 
 
 [<i class="fab fa-github fa-2x"></i>](https://github.com/rana-salah)
