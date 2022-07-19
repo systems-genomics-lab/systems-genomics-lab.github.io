@@ -2,7 +2,7 @@
 
 <img src="images/RanaSalah.jpg" align="right" width="30%" title="Rana Salah" alt="Rana Salah" style="padding: 10px; border:5px">
 
-Rana Salah is a fresh graduate who obtained her undergraduate studies in Cell & Molecular Biology from the [American University in Cairo](https://www.aucegypt.edu/) (AUC) with a double minor in Bioinformatics and Chemistry.
+Rana Salah is a fresh graduate who obtained her undergraduate studies in Cell & Molecular Biology from the [American University in Cairo](https://www.aucegypt.edu/) (AUC) with a double minor in Bioinformatics and Chemistry. And she is now pursuing her M.Sc. in Biotechnology at AUC.
 
 Her research interests involve the applications of multi-omic approaches in biological and environmental studies. In 2020, Rana co-founded and led the first team from AUC to participate in the [International Genetically Engineered Machine](https://igem.org/) ([iGEM](https://igem.org/)) competition focused on Synthetic Biology. Forming a multidisciplinary team of AUC undergraduates to develop a therapeutic syn-bio-based treatment for SARS-CoV-2, for which they got awarded a Silver medal, helped Rana discover her passion for virology, genetics, drug delivery systems, and science communication! Afterward, as a laboratory assistant, she worked on developing diagnostic kits for COVID-19 on the genetic level.
 
