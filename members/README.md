@@ -7,6 +7,7 @@
 - [Tasnim Ghanim](TasnimGhanim), M.Sc. Student
 - [Ahmed El Hosseiny](AhmedElhosseiny), M.Sc. Student
 - [Ahmed M. Kazlak](AhmedKazlak), M.Sc. Student
+- [Rana Salah](RanaSalah), M.Sc. Student
 
 ## Former Members
 - [Sarah Halawa](SarahHalawa), Ph.D.
